@@ -6,7 +6,9 @@ lastmod: 2025-04-12T02:33:00+09:00
 
 ## スタッフ (Staff)
 
-教　授　井上 康博
+教　授　井上 康博  <a href="https://github.com/yasuhiroinoue" target="_blank" rel="noopener noreferrer" style="display: inline-flex; align-items: center; text-decoration: none; color: inherit;">
+  <img src="/images/github-mark.png" alt="GitHub" style="height: 1em; width: 1em; vertical-align: middle; margin-right: 0.25em;">
+</a>
 
 講　師　瀬波 大土
 
