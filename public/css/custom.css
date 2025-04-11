@@ -1,0 +1,18 @@
+/* static/css/custom.css */
+article ul > li,
+article ol > li,
+.content ul > li,
+.content ol > li {
+  /* Apply directly to the list item */
+  text-align: left !important;
+}
+
+article ul > li p,
+article ol > li p,
+.content ul > li p,
+.content ol > li p {
+  /* Ensure paragraphs within list items are left-aligned */
+  text-align: left !important;
+  /* Reset any justification */
+  text-justify: none !important;
+}

@@ -1,14 +1,14 @@
 ---
-title: "Home"
 ---
 
-# 京都大学大学院工学研究科
-## マイクロエンジニアリング専攻
-### 生命数理科学分野
+京都大学大学院工学研究科  
+マイクロエンジニアリング専攻  
+生命数理科学分野
 
-## LIFE AND MATHEMATICAL SCIENCES
-### KYOTO UNIVERSITY (SINCE OCT. 2021)
+LIFE AND MATHEMATICAL SCIENCES  
+KYOTO UNIVERSITY (SINCE OCT. 2021)
 
+---
 生命現象に根差した新しい数理科学の創成と工学応用
 
 ### ありのままを理解する
