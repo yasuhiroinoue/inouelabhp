@@ -4,352 +4,550 @@
     <title>Home on LIFE AND MATHEMATICAL SCIENCES</title>
     <link>http://localhost:1313/</link>
     <description>Recent content in Home on LIFE AND MATHEMATICAL SCIENCES</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 12 Apr 2025 00:40:40 +0900</lastBuildDate>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 </copyright>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
     <item>
       <title>My First Post</title>
       <link>http://localhost:1313/posts/my-first-post/</link>
       <pubDate>Sat, 12 Apr 2025 00:40:40 +0900</pubDate>
+      
       <guid>http://localhost:1313/posts/my-first-post/</guid>
       <description></description>
+      
     </item>
+    
     <item>
       <title>KuSuKuでの講演：カブトムシの変身の秘密</title>
       <link>http://localhost:1313/news/2025-01-12-kusuiku-talk/</link>
       <pubDate>Sun, 12 Jan 2025 00:00:00 +0000</pubDate>
+      
       <guid>http://localhost:1313/news/2025-01-12-kusuiku-talk/</guid>
       <description>KuSuKu(京大学童保育）で井上がカブトムシの変身の秘密について話します。 キッズの皆さん、奮って遊びに来てください。</description>
+      
     </item>
+    
     <item>
       <title>前田樹君の研究成果をarXivに発表</title>
       <link>http://localhost:1313/news/2025-01-06-maeda-arxiv/</link>
       <pubDate>Mon, 06 Jan 2025 00:00:00 +0000</pubDate>
+      
       <guid>http://localhost:1313/news/2025-01-06-maeda-arxiv/</guid>
-      <description>前田樹君の研究成果をarXivに発表しました。 ペンシルパズルのルール設計を体系化する数学的枠組みを開発し、Slitherlinkや数独などのルールを形式化。自動生成や多様性向上への道を開き、AI活用による新規ルール開発の可能性を示しました。&#xA;https://arxiv.org/abs/2501.01433</description>
+      <description>前田樹君の研究成果をarXivに発表しました。 ペンシルパズルのルール設計を体系化する数学的枠組みを開発し、Slitherlinkや数独などのルールを形式化。自動生成や多様性向上への道を開き、AI活用による新規ルール開発の可能性を示しました。
+https://arxiv.org/abs/2501.01433</description>
+      
     </item>
+    
     <item>
       <title>林将也君らの国際共同研究成果がCurrent Biologyに発表</title>
       <link>http://localhost:1313/news/2024-11-28-hayashi-current-biology/</link>
       <pubDate>Thu, 28 Nov 2024 00:00:00 +0000</pubDate>
+      
       <guid>http://localhost:1313/news/2024-11-28-hayashi-current-biology/</guid>
-      <description>林将也君、Johns Hopkins Univ・Weng先生、Univ Texas at Austin・Wallingford先生との国際共同研究成果がCurrent Biologyに発表されました。 細胞配置換えの新しいメカニズムを発見し、神経管（脳のもと）が作られる原理の１つを明らかにしました。&#xA;https://doi.org/10.1016/j.cub.2024.10.070</description>
+      <description>林将也君、Johns Hopkins Univ・Weng先生、Univ Texas at Austin・Wallingford先生との国際共同研究成果がCurrent Biologyに発表されました。 細胞配置換えの新しいメカニズムを発見し、神経管（脳のもと）が作られる原理の１つを明らかにしました。
+https://doi.org/10.1016/j.cub.2024.10.070</description>
+      
     </item>
+    
     <item>
       <title>国際シンポジウム&#34;International Symposium on Morphogenesis by Non-Cellular Materials&#34;</title>
       <link>http://localhost:1313/news/2024-11-25-symposium/</link>
       <pubDate>Mon, 25 Nov 2024 00:00:00 +0000</pubDate>
+      
       <guid>http://localhost:1313/news/2024-11-25-symposium/</guid>
       <description>学術変革領域研究（A)「からだ工務店」主催の国際シンポジウムを京都大学時計台・国際ホールで開催します。</description>
+      
     </item>
+    
     <item>
       <title>松本 嘉彦君が京都大学１１月祭に出展</title>
       <link>http://localhost:1313/news/2024-11-20-matsumoto-nov-fest/</link>
       <pubDate>Wed, 20 Nov 2024 00:00:00 +0000</pubDate>
+      
       <guid>http://localhost:1313/news/2024-11-20-matsumoto-nov-fest/</guid>
       <description>京都大学１１月祭に松本 嘉彦君が京大機械研究会で出展します。(DSC_0013.jpg - Image reference needed) ​京大機械研究会 https://www.nf.la/project/5072</description>
+      
     </item>
+    
     <item>
       <title>第３回ASHBi 数理ヒト生物学研究会</title>
       <link>http://localhost:1313/news/2024-11-20-ashbi-workshop/</link>
       <pubDate>Wed, 20 Nov 2024 00:00:00 +0000</pubDate>
+      
       <guid>http://localhost:1313/news/2024-11-20-ashbi-workshop/</guid>
-      <description>第３回ASHBi 数理ヒト生物学研究会 &amp;ldquo;(Mathematical Human Biology of Shape（かたち） and Movement（うごき）&amp;ldquo;にて、学術変革領域研究（A)「からだ工務店」で築き上げた多細胞動態の数理解析手法と応用成果について、井上が基調講演を行います。&#xA;https://ashbi.kyoto-u.ac.jp/ja/events/3rd-ashbi-mathhub-workshop/</description>
+      <description>第３回ASHBi 数理ヒト生物学研究会 &amp;ldquo;(Mathematical Human Biology of Shape（かたち） and Movement（うごき）&amp;ldquo;にて、学術変革領域研究（A)「からだ工務店」で築き上げた多細胞動態の数理解析手法と応用成果について、井上が基調講演を行います。
+https://ashbi.kyoto-u.ac.jp/ja/events/3rd-ashbi-mathhub-workshop/</description>
+      
     </item>
+    
     <item>
       <title>根本悠樹君と松本嘉彦君が京都大学１１月祭に出展</title>
       <link>http://localhost:1313/news/2024-11-12-nov-fest/</link>
       <pubDate>Tue, 12 Nov 2024 00:00:00 +0000</pubDate>
+      
       <guid>http://localhost:1313/news/2024-11-12-nov-fest/</guid>
       <description>京都大学１１月祭に根本悠樹君がチーム有明で出展します。松本 嘉彦君が京大機械研究会で出展します。 サンタ・リアリティ​ https://www.nf.la/project/5119 ​京大機械研究会 https://www.nf.la/project/5072</description>
+      
     </item>
+    
     <item>
       <title>黒田直也君の研究成果がPhysical Review Aに掲載</title>
       <link>http://localhost:1313/news/2024-11-12-kuroda-pra/</link>
       <pubDate>Tue, 12 Nov 2024 00:00:00 +0000</pubDate>
+      
       <guid>http://localhost:1313/news/2024-11-12-kuroda-pra/</guid>
-      <description>黒田直也君の研究成果がPhysical Review Aに掲載されました。 Naoya Kuroda and Masato Senami, Enhancement of the molecular electron chirality by electronic excitation, Physical Review A&#xA;https://journals.aps.org/pra/abstract/10.1103/PhysRevA.110.052211</description>
+      <description>黒田直也君の研究成果がPhysical Review Aに掲載されました。 Naoya Kuroda and Masato Senami, Enhancement of the molecular electron chirality by electronic excitation, Physical Review A
+https://journals.aps.org/pra/abstract/10.1103/PhysRevA.110.052211</description>
+      
     </item>
+    
     <item>
       <title>サイエンスアゴラ2024に出展しました</title>
       <link>http://localhost:1313/news/2024-10-26-science-agora-report/</link>
       <pubDate>Sat, 26 Oct 2024 00:00:00 +0000</pubDate>
+      
       <guid>http://localhost:1313/news/2024-10-26-science-agora-report/</guid>
-      <description>M2池田君、大住君、林君、筆本君、前田君が出展参加しました。たくさんの親子連れのご来場があり、大盛況でした。「PCシミュレーションで生物の「からだ作り」を解き明かす」で遊んでもらった貝アプリはWebから体験できます。&#xA;https://keisukemazdagithub.netlify.app/</description>
+      <description>M2池田君、大住君、林君、筆本君、前田君が出展参加しました。たくさんの親子連れのご来場があり、大盛況でした。「PCシミュレーションで生物の「からだ作り」を解き明かす」で遊んでもらった貝アプリはWebから体験できます。
+https://keisukemazdagithub.netlify.app/</description>
+      
     </item>
+    
     <item>
       <title>サイエンスアゴラ2024に出展します</title>
       <link>http://localhost:1313/news/2024-10-26-science-agora-announce/</link>
       <pubDate>Sat, 26 Oct 2024 00:00:00 +0000</pubDate>
+      
       <guid>http://localhost:1313/news/2024-10-26-science-agora-announce/</guid>
       <description>お台場・テレコムセンタービルで開催です。学術変革領域研究（A)「からだ工務店」のブースは326「PCシミュレーションで生物の「からだ作り」を解き明かす」</description>
+      
     </item>
+    
     <item>
       <title>松本嘉彦君らの共同研究成果がJAMDSMに掲載</title>
       <link>http://localhost:1313/news/2024-10-11-matsumoto-jamdsm/</link>
       <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
+      
       <guid>http://localhost:1313/news/2024-10-11-matsumoto-jamdsm/</guid>
-      <description>松本 嘉彦君、早稲田大学・山﨑先生との共同研究成果がJournal of Advanced Mechanical Design, Systems, and Manufacturingに掲載されました。 遺伝的アルゴリズムを用いて形状やトポロジー、軌道を事前に定義せずにリンク脚機構を設計する新しい方法を提案し、実環境でも適切な性能を示しました。&#xA;Yoshihiko MATSUMOTO, Shintaro YAMASAKI, Yasuhiro INOUE, One-degree-of-freedom planar link leg mechanisms design without predetermined trajectory using a genetic algorithm, Journal of Advanced Mechanical Design, Systems, and Manufacturing, https://doi.org/10.1299/jamdsm.2024jamdsm0075</description>
+      <description>松本 嘉彦君、早稲田大学・山﨑先生との共同研究成果がJournal of Advanced Mechanical Design, Systems, and Manufacturingに掲載されました。 遺伝的アルゴリズムを用いて形状やトポロジー、軌道を事前に定義せずにリンク脚機構を設計する新しい方法を提案し、実環境でも適切な性能を示しました。
+Yoshihiko MATSUMOTO, Shintaro YAMASAKI, Yasuhiro INOUE, One-degree-of-freedom planar link leg mechanisms design without predetermined trajectory using a genetic algorithm, Journal of Advanced Mechanical Design, Systems, and Manufacturing, https://doi.org/10.1299/jamdsm.2024jamdsm0075</description>
+      
     </item>
+    
     <item>
       <title>京都大学アカデミックデイに出展</title>
       <link>http://localhost:1313/news/2024-09-21-academic-day/</link>
       <pubDate>Sat, 21 Sep 2024 00:00:00 +0000</pubDate>
+      
       <guid>http://localhost:1313/news/2024-09-21-academic-day/</guid>
       <description>京都大学アカデミックデイに出展します。 面白いことがたくさんありすぎて、今年は研究室から2ブースの出展です！森川さん「からだ工務店」、松本さん「制御もないのに歩き出す」</description>
+      
     </item>
+    
     <item>
       <title>森川健太郎君が優秀ポスター表彰（第36回バイオエンジニアリング講演会）</title>
       <link>http://localhost:1313/news/2024-05-12-morikawa-poster-award/</link>
       <pubDate>Sun, 12 May 2024 00:00:00 +0000</pubDate>
+      
       <guid>http://localhost:1313/news/2024-05-12-morikawa-poster-award/</guid>
-      <description>森川健太郎君が第36回バイオエンジニアリング講演会で優秀ポスター表彰を受けました。 おめでとうございます！&#xA;森川 健太郎，中村 拓未，松本 嘉彦，松田 佳祐，秋山 正和， 山崎 慎太郎，近藤 滋，井上 康博．生物の偏差成長の原理に学ぶ曲面構造の物理的造形手法</description>
+      <description>森川健太郎君が第36回バイオエンジニアリング講演会で優秀ポスター表彰を受けました。 おめでとうございます！
+森川 健太郎，中村 拓未，松本 嘉彦，松田 佳祐，秋山 正和， 山崎 慎太郎，近藤 滋，井上 康博．生物の偏差成長の原理に学ぶ曲面構造の物理的造形手法</description>
+      
     </item>
+    
     <item>
       <title>松本嘉彦君が奨励講演表彰（日本機械学会）</title>
       <link>http://localhost:1313/news/2024-04-22-matsumoto-jsme-award/</link>
       <pubDate>Mon, 22 Apr 2024 00:00:00 +0000</pubDate>
+      
       <guid>http://localhost:1313/news/2024-04-22-matsumoto-jsme-award/</guid>
-      <description>松本 嘉彦君が日本機械学会機素潤滑設計部門の奨励講演表彰を受けました。 おめでとうございます！&#xA;松本 嘉彦（京都大学）遺伝的アルゴリズムを用いた歩行機構の設計</description>
+      <description>松本 嘉彦君が日本機械学会機素潤滑設計部門の奨励講演表彰を受けました。 おめでとうございます！
+松本 嘉彦（京都大学）遺伝的アルゴリズムを用いた歩行機構の設計</description>
+      
     </item>
+    
     <item>
       <title>森川健太郎君の総説がJBSEに採択</title>
       <link>http://localhost:1313/news/2024-03-14-morikawa-jbse-review/</link>
       <pubDate>Thu, 14 Mar 2024 00:00:00 +0000</pubDate>
+      
       <guid>http://localhost:1313/news/2024-03-14-morikawa-jbse-review/</guid>
       <description>森川健太郎君の総説がJournal of Biomechanical Science and Engineeringに採択されました。 Kentaro Morikawa, Yasuhiro Inoue, Computational mechanics simulations on epithelial folding: strengths, insights, and future challenges, Journal of Biomechanical Science and Engineering 2024 (in press)</description>
+      
     </item>
+    
     <item>
       <title>大阪大学・近藤研究室らとの共同研究がDevelopmentに発表</title>
       <link>http://localhost:1313/news/2024-03-13-kondo-lab-dev/</link>
       <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
+      
       <guid>http://localhost:1313/news/2024-03-13-kondo-lab-dev/</guid>
-      <description>大阪大学・近藤研究室、静岡大学・後藤先生との共同研究がDevelopmentに発表されました。 成虫のカブトムシの鋭いツノができる秘密&#xA;Keisuke Matsuda, Haruhiko Adachi, Hiroki Gotoh, Yasuhiro Inoue, Shigeru Kondo, Adhesion and shrinkage transform the rounded pupal horn into an angular adult horn in Japanese rhinoceros beetle, Development​, 2024 Oct 15;151(20):dev202082. doi: 10.1242/dev.202082. Epub 2024 Mar 13.</description>
+      <description>大阪大学・近藤研究室、静岡大学・後藤先生との共同研究がDevelopmentに発表されました。 成虫のカブトムシの鋭いツノができる秘密
+Keisuke Matsuda, Haruhiko Adachi, Hiroki Gotoh, Yasuhiro Inoue, Shigeru Kondo, Adhesion and shrinkage transform the rounded pupal horn into an angular adult horn in Japanese rhinoceros beetle, Development​, 2024 Oct 15;151(20):dev202082. doi: 10.1242/dev.202082. Epub 2024 Mar 13.</description>
+      
     </item>
+    
     <item>
       <title>「からだ工務店」春合宿</title>
       <link>http://localhost:1313/news/2024-03-07-karada-koumuten-camp/</link>
       <pubDate>Thu, 07 Mar 2024 00:00:00 +0000</pubDate>
+      
       <guid>http://localhost:1313/news/2024-03-07-karada-koumuten-camp/</guid>
       <description>学術変革領域研究（A)「からだ工務店」春合宿。研究課題解決を目的とした春合宿を富山大学で開催します。</description>
+      
     </item>
+    
     <item>
       <title>学術変革領域研究（A)三領域合同合宿</title>
       <link>http://localhost:1313/news/2024-01-19-joint-camp/</link>
       <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
+      
       <guid>http://localhost:1313/news/2024-01-19-joint-camp/</guid>
       <description>学術変革領域研究（A)「からだ工務店」、「ジオラマ行動力学」、「データ記述科学」の三領域合同の研究合宿を富山大学で行います。今回は、各領域の実験課題に対して、三領域から集まった数理研究者が課題解決に挑みます。</description>
+      
     </item>
+    
     <item>
       <title>受賞：中村拓未君が若手講演表彰（第34回バイオフロンティア講演会）</title>
       <link>http://localhost:1313/news/2023-12-27-nakamura-award/</link>
       <pubDate>Wed, 27 Dec 2023 00:00:00 +0000</pubDate>
+      
       <guid>http://localhost:1313/news/2023-12-27-nakamura-award/</guid>
-      <description>中村拓未君が第34回バイオフロンティア講演会の若手講演表彰に選ばれました。おめでとうございます。&#xA;https://www.jsme.or.jp/conference/biofrconf23/doc2/wakate.pdf</description>
+      <description>中村拓未君が第34回バイオフロンティア講演会の若手講演表彰に選ばれました。おめでとうございます。
+https://www.jsme.or.jp/conference/biofrconf23/doc2/wakate.pdf</description>
+      
     </item>
+    
     <item>
       <title>サイエンスアゴラ2023（更新）注目企画に選出</title>
       <link>http://localhost:1313/news/2023-11-18-science-agora-update/</link>
       <pubDate>Sat, 18 Nov 2023 00:00:00 +0000</pubDate>
+      
       <guid>http://localhost:1313/news/2023-11-18-science-agora-update/</guid>
-      <description>サイエンスアゴラ2023（更新） ​サイエンスアゴラ2023推進委員会の注目企画に選ばれました！&#xA;テレコムセンタービル3階ブース３０５でお待ちしております。&#xA;PCシミュレーションで生物の「からだ作り」を解き明かす　Dissecting morphogenesis via PC simulation | Peatix</description>
+      <description>サイエンスアゴラ2023（更新） ​サイエンスアゴラ2023推進委員会の注目企画に選ばれました！
+テレコムセンタービル3階ブース３０５でお待ちしております。
+PCシミュレーションで生物の「からだ作り」を解き明かす　Dissecting morphogenesis via PC simulation | Peatix</description>
+      
     </item>
+    
     <item>
       <title>サイエンスアゴラ2023に出展</title>
       <link>http://localhost:1313/news/2023-11-18-science-agora-announce-initial/</link>
       <pubDate>Sat, 18 Nov 2023 00:00:00 +0000</pubDate>
+      
       <guid>http://localhost:1313/news/2023-11-18-science-agora-announce-initial/</guid>
-      <description>学術変革領域研究（A)「からだ工務店」で出展します。今年も、領域研究の成果をPCシミュレーションで体験できる仕掛けが満載！&#xA;https://www.jst.go.jp/sis/scienceagora/</description>
+      <description>学術変革領域研究（A)「からだ工務店」で出展します。今年も、領域研究の成果をPCシミュレーションで体験できる仕掛けが満載！
+https://www.jst.go.jp/sis/scienceagora/</description>
+      
     </item>
+    
     <item>
       <title>黒田直也君の研究成果がJPSJに掲載</title>
       <link>http://localhost:1313/news/2023-11-06-kuroda-jpsj/</link>
       <pubDate>Mon, 06 Nov 2023 00:00:00 +0000</pubDate>
+      
       <guid>http://localhost:1313/news/2023-11-06-kuroda-jpsj/</guid>
-      <description>黒田直也君の研究成果がJournal of the Physical Society of Japanに掲載されました。 Naoya Kuroda, Ayaki Sunaga, Masato Senami, Enhancement of Parity-Violating Energy Difference of CHFClBr, CHFClI, and CHFBrI by Breaking the Cancellation among Valence Orbital Contributions&#xA;https://doi.org/10.7566/JPSJ.92.124301</description>
+      <description>黒田直也君の研究成果がJournal of the Physical Society of Japanに掲載されました。 Naoya Kuroda, Ayaki Sunaga, Masato Senami, Enhancement of Parity-Violating Energy Difference of CHFClBr, CHFClI, and CHFBrI by Breaking the Cancellation among Valence Orbital Contributions
+https://doi.org/10.7566/JPSJ.92.124301</description>
+      
     </item>
+    
     <item>
       <title>森川健太郎君らの共同研究成果がJTBに掲載</title>
       <link>http://localhost:1313/news/2023-10-25-morikawa-jtb/</link>
       <pubDate>Wed, 25 Oct 2023 00:00:00 +0000</pubDate>
+      
       <guid>http://localhost:1313/news/2023-10-25-morikawa-jtb/</guid>
-      <description>森川健太郎君、基礎生物学研究所・新美先生、森田先生、左倉先生、静岡大学・後藤先生、国立遺伝学研究所・前野先生との共同研究成果がJournal of Theoretical Biologyに掲載されました。 形態形成における器官形状に対して、成長前と成長後のたった2つの画像から、どこがどれだけ成長したかを推定できます！&#xA;Kentaro Morikawa, Shinichi Morita, Kazuki Sakura, Akiteru Maeno, Hiroki Gotoh, Teruyuki Niimi, Yasuhiro Inoue, Unveiling the Role of Differential Growth in 3D Morphogenesis: An Inference Method to Analyze Area Expansion Rate Distribution in Biological Systems, Journal of Theoretical Biology (2023). https://doi.org/10.1016/j.jtbi.2023.111650</description>
+      <description>森川健太郎君、基礎生物学研究所・新美先生、森田先生、左倉先生、静岡大学・後藤先生、国立遺伝学研究所・前野先生との共同研究成果がJournal of Theoretical Biologyに掲載されました。 形態形成における器官形状に対して、成長前と成長後のたった2つの画像から、どこがどれだけ成長したかを推定できます！
+Kentaro Morikawa, Shinichi Morita, Kazuki Sakura, Akiteru Maeno, Hiroki Gotoh, Teruyuki Niimi, Yasuhiro Inoue, Unveiling the Role of Differential Growth in 3D Morphogenesis: An Inference Method to Analyze Area Expansion Rate Distribution in Biological Systems, Journal of Theoretical Biology (2023). https://doi.org/10.1016/j.jtbi.2023.111650</description>
+      
     </item>
+    
     <item>
       <title>京都大学アカデミックデイ2023に出展</title>
       <link>http://localhost:1313/news/2023-09-24-academic-day-2023/</link>
       <pubDate>Sun, 24 Sep 2023 00:00:00 +0000</pubDate>
+      
       <guid>http://localhost:1313/news/2023-09-24-academic-day-2023/</guid>
-      <description>京都大学アカデミックデイ2023に出展します ​発明！カブトムシのモノづくり&#xA;https://research.kyoto-u.ac.jp/academic-day/a2023/</description>
+      <description>京都大学アカデミックデイ2023に出展します ​発明！カブトムシのモノづくり
+https://research.kyoto-u.ac.jp/academic-day/a2023/</description>
+      
     </item>
+    
     <item>
       <title>EMBO WS TSB Satellite Meeting</title>
       <link>http://localhost:1313/news/2023-07-28-embo-satellite/</link>
       <pubDate>Fri, 28 Jul 2023 00:00:00 +0000</pubDate>
+      
       <guid>http://localhost:1313/news/2023-07-28-embo-satellite/</guid>
-      <description>学術変革領域研究（A)「からだ工務店」が共催する国際ミーティング。コンセプトを紹介し、国際的連携の議論を行いました。&#xA;https://sites.google.com/nibb.ac.jp/embo-ws-tsb-satellite-meeting/</description>
+      <description>学術変革領域研究（A)「からだ工務店」が共催する国際ミーティング。コンセプトを紹介し、国際的連携の議論を行いました。
+https://sites.google.com/nibb.ac.jp/embo-ws-tsb-satellite-meeting/</description>
+      
     </item>
+    
     <item>
       <title>受賞：黒田直也君が工学研究科吉田研究奨励賞</title>
       <link>http://localhost:1313/news/2023-07-10-kuroda-award/</link>
       <pubDate>Mon, 10 Jul 2023 00:00:00 +0000</pubDate>
+      
       <guid>http://localhost:1313/news/2023-07-10-kuroda-award/</guid>
       <description>黒田直也君が工学研究科吉田研究奨励賞を受賞しました。おめでとうございます。</description>
+      
     </item>
+    
     <item>
       <title>三村知広君が開発する多細胞動力学モデルの成果がJTBに掲載</title>
       <link>http://localhost:1313/news/2023-06-08-mimura-jtb/</link>
       <pubDate>Thu, 08 Jun 2023 00:00:00 +0000</pubDate>
+      
       <guid>http://localhost:1313/news/2023-06-08-mimura-jtb/</guid>
-      <description>三村知広君が開発する多細胞動力学の新しい数理モデルの成果がJournal of Theoretical Biologyに掲載されました。 Tomohiro Mimura and Yasuhiro Inoue, Cell-center-based model for simulating three-dimensional monolayer tissue deformation, Journal of Theoretical Biology (2023). https://doi.org/10.1016/j.jtbi.2023.111560&#xA;Code available: git clone https://github.com/TomohiroMimura/CellCenterModel.git</description>
+      <description>三村知広君が開発する多細胞動力学の新しい数理モデルの成果がJournal of Theoretical Biologyに掲載されました。 Tomohiro Mimura and Yasuhiro Inoue, Cell-center-based model for simulating three-dimensional monolayer tissue deformation, Journal of Theoretical Biology (2023). https://doi.org/10.1016/j.jtbi.2023.111560
+Code available: git clone https://github.com/TomohiroMimura/CellCenterModel.git</description>
+      
     </item>
+    
     <item>
       <title>受賞：森川健太郎君がOutstanding Presentation表彰（日本機械学会）</title>
       <link>http://localhost:1313/news/2023-06-04-morikawa-outstanding-presentation/</link>
       <pubDate>Sun, 04 Jun 2023 00:00:00 +0000</pubDate>
+      
       <guid>http://localhost:1313/news/2023-06-04-morikawa-outstanding-presentation/</guid>
       <description>森川健太郎君が日本機械学会第35回バイオエンジニアリング講演会でOutstanding Presentation表彰に選ばれました。おめでとうございます。</description>
+      
     </item>
+    
     <item>
       <title>兵庫県立兵庫高等学校で出張講義</title>
       <link>http://localhost:1313/news/2022-12-20-guest-lecture/</link>
       <pubDate>Tue, 20 Dec 2022 00:00:00 +0000</pubDate>
+      
       <guid>http://localhost:1313/news/2022-12-20-guest-lecture/</guid>
       <description>兵庫県立兵庫高等学校で出張講義をします。 学術変革領域研究（A)「からだ工務店」の研究を紹介します。カブトムシの折り畳みと展開による形態形成とその工学応用について講義します。</description>
+      
     </item>
+    
     <item>
       <title>東京大学・塚谷先生らとの共同研究成果がDevelopmentに発表</title>
       <link>http://localhost:1313/news/2022-12-12-tsukaya-lab-dev/</link>
       <pubDate>Mon, 12 Dec 2022 00:00:00 +0000</pubDate>
+      
       <guid>http://localhost:1313/news/2022-12-12-tsukaya-lab-dev/</guid>
-      <description>東京大学・塚谷先生、京都大学・望月先生との共同研究成果がDevelopmentに発表されました。 花びらの形が葉と違う仕組みを解明。&#xA;Ayaka Kinoshita, Makiko Naito, Zining Wang, Yasuhiro Inoue, Atsushi Mochizuki, Hirokazu Tsukaya Position of meristems and the angles of the cell division plane regulate the uniqueness of lateral organ shape, Development (2022)&#xA;https://doi.org/10.1242/dev.199773</description>
+      <description>東京大学・塚谷先生、京都大学・望月先生との共同研究成果がDevelopmentに発表されました。 花びらの形が葉と違う仕組みを解明。
+Ayaka Kinoshita, Makiko Naito, Zining Wang, Yasuhiro Inoue, Atsushi Mochizuki, Hirokazu Tsukaya Position of meristems and the angles of the cell division plane regulate the uniqueness of lateral organ shape, Development (2022)
+https://doi.org/10.1242/dev.199773</description>
+      
     </item>
+    
     <item>
       <title>サイエンスアゴラ2022に出展します</title>
       <link>http://localhost:1313/news/2022-11-05-science-agora-2022/</link>
       <pubDate>Sat, 05 Nov 2022 00:00:00 +0000</pubDate>
+      
       <guid>http://localhost:1313/news/2022-11-05-science-agora-2022/</guid>
-      <description>学術変革領域研究（A）「からだ工務店」で出展します（東京・お台場・テレコムセンター5階 ブース517）。当研究室からは、折り畳み・展開シミュレーションの体験デモを展示します。&#xA;https://www.jst.go.jp/sis/scienceagora/2022/</description>
+      <description>学術変革領域研究（A）「からだ工務店」で出展します（東京・お台場・テレコムセンター5階 ブース517）。当研究室からは、折り畳み・展開シミュレーションの体験デモを展示します。
+https://www.jst.go.jp/sis/scienceagora/2022/</description>
+      
     </item>
+    
     <item>
       <title>上皮形態形成における物理環境の非対称性の影響に関する研究成果がSCIENTIFIC REPORTSに発表</title>
       <link>http://localhost:1313/news/2022-07-05-scientific-reports/</link>
       <pubDate>Tue, 05 Jul 2022 00:00:00 +0000</pubDate>
+      
       <guid>http://localhost:1313/news/2022-07-05-scientific-reports/</guid>
-      <description>上皮形態における突起形状、ひだ形状、網目形状の違いが生まれる原理の１つに、物理環境の非対称があることを数理的に示しました。&#xA;Kentaro Morikawa, Daichi Kuroda, Yasuhiro Inoue Impact of Environmental Asymmetry on Epithelial Morphogenesis, Scientific Reports (2022)&#xA;https://doi.org/10.1038/s41598-022-15343-y</description>
+      <description>上皮形態における突起形状、ひだ形状、網目形状の違いが生まれる原理の１つに、物理環境の非対称があることを数理的に示しました。
+Kentaro Morikawa, Daichi Kuroda, Yasuhiro Inoue Impact of Environmental Asymmetry on Epithelial Morphogenesis, Scientific Reports (2022)
+https://doi.org/10.1038/s41598-022-15343-y</description>
+      
     </item>
+    
     <item>
       <title>特定研究員の募集</title>
       <link>http://localhost:1313/news/2022-06-20-researcher-recruitment/</link>
       <pubDate>Mon, 20 Jun 2022 00:00:00 +0000</pubDate>
+      
       <guid>http://localhost:1313/news/2022-06-20-researcher-recruitment/</guid>
       <description>生物の形態形成の数理モデリング・シミュレーション、または、生物の形態形成の原理の工学応用に関する研究を推進してくださる特定研究員を募集しています。これからプログラミングにチャレンジしたい方や新しく専門を広げてみたい方など、意欲的な方は、大歓迎です。どなたでも電子応募いただけますので、詳細はJREC-INをご覧ください。</description>
+      
     </item>
+    
     <item>
       <title>BEST POSTER PRESENTATION AWARD 受賞：根本悠樹君 (NICOGRAPH International 2022)</title>
       <link>http://localhost:1313/news/2022-06-05-nemoto-best-poster/</link>
       <pubDate>Sun, 05 Jun 2022 00:00:00 +0000</pubDate>
+      
       <guid>http://localhost:1313/news/2022-06-05-nemoto-best-poster/</guid>
-      <description>​根本悠樹君がNICOGRAPH International 2022(芸術科学会主催)にてBest Poster Presentation Awardを受賞しました。おめでとうございます！&#xA;Someone to meet you: Introspective Encounter with the Presence of Someone from Uncertain Spatial Void Yuki Nemoto and Yasuhiro Inoue</description>
+      <description>​根本悠樹君がNICOGRAPH International 2022(芸術科学会主催)にてBest Poster Presentation Awardを受賞しました。おめでとうございます！
+Someone to meet you: Introspective Encounter with the Presence of Someone from Uncertain Spatial Void Yuki Nemoto and Yasuhiro Inoue</description>
+      
     </item>
+    
     <item>
       <title>受賞：三村知広君が日本機械学会畠山賞</title>
       <link>http://localhost:1313/news/2022-03-24-mimura-hatakeyama-award/</link>
       <pubDate>Thu, 24 Mar 2022 00:00:00 +0000</pubDate>
+      
       <guid>http://localhost:1313/news/2022-03-24-mimura-hatakeyama-award/</guid>
       <description>​三村知広君が日本機械学会畠山賞を受賞しました。おめでとうございます。</description>
+      
     </item>
+    
     <item>
       <title>森川健太郎君、京都市立芸術大学・富田先生との共同研究が紀要『日本哲学史研究』第１８号に発表</title>
       <link>http://localhost:1313/news/2022-02-18-morikawa-tomita-collab/</link>
       <pubDate>Fri, 18 Feb 2022 00:00:00 +0000</pubDate>
+      
       <guid>http://localhost:1313/news/2022-02-18-morikawa-tomita-collab/</guid>
-      <description>森川健太郎君、京都市立芸術大学・富田先生（京大・名誉教授）との共同研究が紀要『日本哲学史研究』第１８号に発表されました。 森川健太郎、富田直秀、井上康博 生命と「わかる」の数理モデル化の試み&#xA;紀要『日本哲学史研究』第１８号 http://www.nihontetsugaku-philosophie-japonaise.jp/?p=1520</description>
+      <description>森川健太郎君、京都市立芸術大学・富田先生（京大・名誉教授）との共同研究が紀要『日本哲学史研究』第１８号に発表されました。 森川健太郎、富田直秀、井上康博 生命と「わかる」の数理モデル化の試み
+紀要『日本哲学史研究』第１８号 http://www.nihontetsugaku-philosophie-japonaise.jp/?p=1520</description>
+      
     </item>
+    
     <item>
       <title>VTECH CHALLENGE 2021</title>
       <link>http://localhost:1313/news/2021-11-15-vtech-challenge/</link>
       <pubDate>Mon, 15 Nov 2021 00:00:00 +0000</pubDate>
+      
       <guid>http://localhost:1313/news/2021-11-15-vtech-challenge/</guid>
-      <description>根本悠樹君の「未然たるあなた」がVTech Challenge 2021(GREE, Inc. &amp;amp; REALITY, Inc)に採択されました。&#xA;https://vr.gree.net/lab/vtc/vtc21/someone/</description>
+      <description>根本悠樹君の「未然たるあなた」がVTech Challenge 2021(GREE, Inc. &amp;amp; REALITY, Inc)に採択されました。
+https://vr.gree.net/lab/vtc/vtc21/someone/</description>
+      
     </item>
+    
     <item>
       <title>IVRC2021 発表作品キャッチ動画公開</title>
       <link>http://localhost:1313/news/2021-11-08-ivrc2021/</link>
       <pubDate>Mon, 08 Nov 2021 00:00:00 +0000</pubDate>
+      
       <guid>http://localhost:1313/news/2021-11-08-ivrc2021/</guid>
-      <description>​根本悠樹君が日本バーチャルリアリティ学会主催IVRC2021 Leap stageで発表した作品のキャッチ動画を公開しました。&#xA;https://youtu.be/_mxVCMSjMyg</description>
+      <description>​根本悠樹君が日本バーチャルリアリティ学会主催IVRC2021 Leap stageで発表した作品のキャッチ動画を公開しました。
+https://youtu.be/_mxVCMSjMyg</description>
+      
     </item>
+    
     <item>
       <title>受賞論文：根本悠樹君が『吉田卒業研究・論文』を受賞</title>
       <link>http://localhost:1313/news/2021-05-26-nemoto-yoshida-award/</link>
       <pubDate>Wed, 26 May 2021 00:00:00 +0000</pubDate>
+      
       <guid>http://localhost:1313/news/2021-05-26-nemoto-yoshida-award/</guid>
       <description>根本悠樹君が本学工学研究科の『吉田卒業研究・論文』を受賞しました。おめでとうございます。（授賞式）</description>
+      
     </item>
+    
     <item>
       <title>新４回生配属</title>
       <link>http://localhost:1313/news/2021-04-01-new-students/</link>
       <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      
       <guid>http://localhost:1313/news/2021-04-01-new-students/</guid>
       <description>新しく7名が仲間入り。</description>
+      
     </item>
+    
     <item>
       <title>大阪大学・近藤滋研究室との共同研究成果がSCIENTIFIC REPORTSに発表</title>
       <link>http://localhost:1313/news/2021-01-13-kondo-lab-sci-reports/</link>
       <pubDate>Wed, 13 Jan 2021 00:00:00 +0000</pubDate>
+      
       <guid>http://localhost:1313/news/2021-01-13-kondo-lab-sci-reports/</guid>
-      <description>​カブトムシの3D角形状をコーディングする角原基折り畳みの数値解析&#xA;Keisuke Matsuda, Hiroki Gotoh, Haruhiko Adachi, Yasuhiro Inoue, Shigeru Kondo Computational analyses decipher the primordial folding coding the 3D structure of the beetle horn, Scientific Reports (2021)&#xA;https://doi.org/10.1038/s41598-020-79757-</description>
+      <description>​カブトムシの3D角形状をコーディングする角原基折り畳みの数値解析
+Keisuke Matsuda, Hiroki Gotoh, Haruhiko Adachi, Yasuhiro Inoue, Shigeru Kondo Computational analyses decipher the primordial folding coding the 3D structure of the beetle horn, Scientific Reports (2021)
+https://doi.org/10.1038/s41598-020-79757-</description>
+      
     </item>
+    
     <item>
       <title>からだ工務店、はじめます</title>
       <link>http://localhost:1313/news/2020-12-07-karada-koumuten-start/</link>
       <pubDate>Mon, 07 Dec 2020 00:00:00 +0000</pubDate>
+      
       <guid>http://localhost:1313/news/2020-12-07-karada-koumuten-start/</guid>
-      <description>学術変革領域研究A「からだ工務店」のホームページは、こちらからどうぞ。&#xA;architect-bio.info</description>
+      <description>学術変革領域研究A「からだ工務店」のホームページは、こちらからどうぞ。
+architect-bio.info</description>
+      
     </item>
+    
     <item>
       <title>若林君(2020卒)のピアノ演奏公開</title>
       <link>http://localhost:1313/news/2020-10-03-wakabayashi-piano/</link>
       <pubDate>Sat, 03 Oct 2020 00:00:00 +0000</pubDate>
+      
       <guid>http://localhost:1313/news/2020-10-03-wakabayashi-piano/</guid>
       <description>若林君(2020卒)のピアノ演奏が公開されました。 https://youtu.be/3N6ysNSGn8A</description>
+      
     </item>
+    
     <item>
       <title>PURDUE大学KIM研究室との国際共同研究成果がSOFT MATTERに発表</title>
       <link>http://localhost:1313/news/2020-01-02-purdue-collab-soft-matter/</link>
       <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      
       <guid>http://localhost:1313/news/2020-01-02-purdue-collab-soft-matter/</guid>
-      <description>アクチン繊維の棒状排除体積効果が様々な秩序構造を生み出す仕組み&#xA;https://doi.org/10.1039/C9SM02082A</description>
+      <description>アクチン繊維の棒状排除体積効果が様々な秩序構造を生み出す仕組み
+https://doi.org/10.1039/C9SM02082A</description>
+      
     </item>
+    
     <item>
       <title>上皮組織の折り畳みに関する研究成果がBIOMECH MODEL MECHANO BIOLに発表</title>
       <link>http://localhost:1313/news/2019-11-15-epithelial-folding-bmmb/</link>
       <pubDate>Fri, 15 Nov 2019 00:00:00 +0000</pubDate>
+      
       <guid>http://localhost:1313/news/2019-11-15-epithelial-folding-bmmb/</guid>
-      <description>制限された空間内の上皮組織の折り畳み&#xA;Epithelial tissue folding pattern in confined geometry&#xA;https://doi.org/10.1007/s10237-019-01249-8</description>
+      <description>制限された空間内の上皮組織の折り畳み
+Epithelial tissue folding pattern in confined geometry
+https://doi.org/10.1007/s10237-019-01249-8</description>
+      
     </item>
+    
     <item>
       <title>京都大学ウイルス再生研・安達研究室との共同研究成果がBIOMECH MODEL MECHANO BIOLに発表</title>
       <link>http://localhost:1313/news/2019-09-07-adachi-lab-bmmb/</link>
       <pubDate>Sat, 07 Sep 2019 00:00:00 +0000</pubDate>
+      
       <guid>http://localhost:1313/news/2019-09-07-adachi-lab-bmmb/</guid>
-      <description>組織形態形成のエネルギーランドスケープ&#xA;An energy landscape approach to understanding variety and robustness in tissue morphogenesis&#xA;https://doi.org/10.1007/s10237-019-01222-5</description>
+      <description>組織形態形成のエネルギーランドスケープ
+An energy landscape approach to understanding variety and robustness in tissue morphogenesis
+https://doi.org/10.1007/s10237-019-01222-5</description>
+      
     </item>
+    
     <item>
       <title>メンバー</title>
       <link>http://localhost:1313/members/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
       <guid>http://localhost:1313/members/</guid>
-      <description>スタッフ 教授　井上 康博&#xA;講師　瀬波 大土&#xA;助教　森川健太郎&#xA;支援職員　二茅 容子&#xA;学生 (Students) D3 松本 嘉彦&#xA;D3 根本 悠樹&#xA;D2 三村 知広&#xA;D0 杉浦 清流&#xA;D0 油布 隆太&#xA;M2 國西 海渡&#xA;M2 新村 大輝&#xA;M1 磯谷 駿一郎&#xA;M1 米谷 太一&#xA;M1 近藤 克樹</description>
+      <description>スタッフ (Staff) # 教授　井上 康博 講師　瀬波 大土
+助教　森川健太郎
+支援職員　二茅 容子
+学生 (Students) # D3 松本 嘉彦
+D3 根本 悠樹
+D2 三村 知広
+D0 杉浦 清流
+D0 油布 隆太
+M2 國西 海渡
+M2 新村 大輝
+M1 磯谷 駿一郎
+M1 米谷 太一
+M1 近藤 克樹</description>
+      
     </item>
+    
     <item>
       <title>当研究室を希望される皆さまへ</title>
       <link>http://localhost:1313/prospective-students/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
       <guid>http://localhost:1313/prospective-students/</guid>
-      <description>研究テーマについて 私たちの研究室は、生命現象に根ざした新しい数理科学、「生命数理科学」の創造を目指しています。この革新的な科学を実世界のシステム設計、生産、制御などに応用し、人々がより良く生きるための新たなシステムを生み出します。生命数理科学は、自然現象や人工現象の研究にも活用でき、世界を捉える新しい視点を提供します。既存システムの根本原理を生命数理の観点から理解することで、その改善や全く新しい設計・アプリケーションの開発を促進します。生命数理科学を応用して創り出せるシステムの可能性は無限大です。私たちは、この有望な新分野の最前線で未来を切り拓いていきます。&#xA;​PIの井上は、生物の形態形成、自己組織化、集団的協調の創発、リンク機構、複雑流体のレオロジー、複合材料、ソフトマター、分子ダイナミクス、ネットワーク理論など、多岐にわたる研究に取り組んできました。力学や統計物理学を専門としつつも、学生一人ひとりの興味や情熱を尊重し、共に議論を重ねて具体的な研究テーマを構築しています。&#xA;​私たちの研究室では、自分の研究動機を深く見つめ、主体的に行動できる方を歓迎します。オリジナルのテーマに取り組むためには、積極的な姿勢と行動力が重要ですが、その挑戦を全力でサポートします。あなたのアイデアを形にし、独自の研究を進める環境がここにあります。&#xA;過去の研究テーマ例 グラフ理論を利用したBoolean Networkにおけるノード安定化定理 (2023年修士) 電気伝導現象におけるスピン渦度とスピン軌道相互作用の関係 (2022年修士) 形態形成の理解に向けた細胞中心モデル (2023年修士) 生物の偏差成⾧による曲面形態形成に学ぶ4Dプリンティング (2023年修士) 局所化学ポテンシャルに基づくイオン伝導経路探索法の開発 (2023年修士) 球面における細胞中心モデルの曲げエネルギー離散化手法の検討 (2023年学士) 立体物の等長的な変換による平面上のしわ造形手法の開発 (2023年学士) スパース性を利用したブーリアンネットワークの構造推定 (2023年学士) 逐次モンテカルロ法を用いた近似ベイズ計算による人口動態における環境収容力の推定 (2023年学士) スピン渦度と電流の線形関係式とMaxwell方程式の無矛盾性 (2023年学士) カブトムシ角原基キノコ型形成の力学シミュレーション (2022年修士) カイメンにおける骨片骨格形成の3次元シミュレーション (2022年修士) 局所化学ポテンシャルを用いた原子吸着位置の推定 (2022年修士) ​多様な解釈を誘起する二次元遮蔽媒体による減算情報提示手法の開発 (2022年修士) 自然界にあらわれるブーリガン構造の棒状要素モデル (2022年学士) パズルルールの自動作成を目指した数学的考察 (2022年学士) 局所剛体性を課した皺展開シミュレーション (2022年学士) 蛹殻内ショウジョウバエ翅の数理モデルの構築 (2022年学士) トーラス上のトポロジカル欠陥のダイナミクス (2022年学士) イオン化によるアミノ酸分子のフラグメント化 (2022年学士) 細胞形状に着目した組織スケールの遺伝子発現動態の数理モデル (2021年修士) リンク機構設計のための遺伝的アルゴリズムの開発 (2021年修士) 漁獲規制下における資源分配の数理モデリング (2021年修士) 電子テンション密度のスピン依存成分によるスピン分極の理論 (2021年修士) カイラル誘起スピン選択性におけるスピン偏極率とツェータ力の線形関係 (2021年修士) Π(A_F) ⊂^T A_G を満たすブーリアンネットワークの低次元化 (2021年学士) シュリンクフィルムによる4Dプリントアクティベーション (2021年学士) ÉPÉEにおける動作解析による得点因子の抽出 (2021年学士) マイクロCT撮影に基づくカブトムシ角原基の3Dモデル (2021年学士) 3次元形態形成を表す隣接細胞間ネットワークモデル (2021年学士) スペクトログラムを用いた変分オートエンコーダによる音楽生成 (2021年学士) 局所化学ポテンシャルによるリチウムイオン伝導経路推定手法のLI3PO4における検証 (2021年学士) </description>
+      <description> 研究テーマについて # 私たちの研究室は、生命現象に根ざした新しい数理科学、「生命数理科学」の創造を目指しています。この革新的な科学を実世界のシステム設計、生産、制御などに応用し、人々がより良く生きるための新たなシステムを生み出します。生命数理科学は、自然現象や人工現象の研究にも活用でき、世界を捉える新しい視点を提供します。既存システムの根本原理を生命数理の観点から理解することで、その改善や全く新しい設計・アプリケーションの開発を促進します。生命数理科学を応用して創り出せるシステムの可能性は無限大です。私たちは、この有望な新分野の最前線で未来を切り拓いていきます。
+​PIの井上は、生物の形態形成、自己組織化、集団的協調の創発、リンク機構、複雑流体のレオロジー、複合材料、ソフトマター、分子ダイナミクス、ネットワーク理論など、多岐にわたる研究に取り組んできました。力学や統計物理学を専門としつつも、学生一人ひとりの興味や情熱を尊重し、共に議論を重ねて具体的な研究テーマを構築しています。
+​私たちの研究室では、自分の研究動機を深く見つめ、主体的に行動できる方を歓迎します。オリジナルのテーマに取り組むためには、積極的な姿勢と行動力が重要ですが、その挑戦を全力でサポートします。あなたのアイデアを形にし、独自の研究を進める環境がここにあります。
+過去の研究テーマ例 # グラフ理論を利用したBoolean Networkにおけるノード安定化定理 (2023年修士) 電気伝導現象におけるスピン渦度とスピン軌道相互作用の関係 (2022年修士) 形態形成の理解に向けた細胞中心モデル (2023年修士) 生物の偏差成⾧による曲面形態形成に学ぶ4Dプリンティング (2023年修士) 局所化学ポテンシャルに基づくイオン伝導経路探索法の開発 (2023年修士) 球面における細胞中心モデルの曲げエネルギー離散化手法の検討 (2023年学士) 立体物の等長的な変換による平面上のしわ造形手法の開発 (2023年学士) スパース性を利用したブーリアンネットワークの構造推定 (2023年学士) 逐次モンテカルロ法を用いた近似ベイズ計算による人口動態における環境収容力の推定 (2023年学士) スピン渦度と電流の線形関係式とMaxwell方程式の無矛盾性 (2023年学士) カブトムシ角原基キノコ型形成の力学シミュレーション (2022年修士) カイメンにおける骨片骨格形成の3次元シミュレーション (2022年修士) 局所化学ポテンシャルを用いた原子吸着位置の推定 (2022年修士) ​多様な解釈を誘起する二次元遮蔽媒体による減算情報提示手法の開発 (2022年修士) 自然界にあらわれるブーリガン構造の棒状要素モデル (2022年学士) パズルルールの自動作成を目指した数学的考察 (2022年学士) 局所剛体性を課した皺展開シミュレーション (2022年学士) 蛹殻内ショウジョウバエ翅の数理モデルの構築 (2022年学士) トーラス上のトポロジカル欠陥のダイナミクス (2022年学士) イオン化によるアミノ酸分子のフラグメント化 (2022年学士) 細胞形状に着目した組織スケールの遺伝子発現動態の数理モデル (2021年修士) リンク機構設計のための遺伝的アルゴリズムの開発 (2021年修士) 漁獲規制下における資源分配の数理モデリング (2021年修士) 電子テンション密度のスピン依存成分によるスピン分極の理論 (2021年修士) カイラル誘起スピン選択性におけるスピン偏極率とツェータ力の線形関係 (2021年修士) Π(A_F) ⊂^T A_G を満たすブーリアンネットワークの低次元化 (2021年学士) シュリンクフィルムによる4Dプリントアクティベーション (2021年学士) ÉPÉEにおける動作解析による得点因子の抽出 (2021年学士) マイクロCT撮影に基づくカブトムシ角原基の3Dモデル (2021年学士) 3次元形態形成を表す隣接細胞間ネットワークモデル (2021年学士) スペクトログラムを用いた変分オートエンコーダによる音楽生成 (2021年学士) 局所化学ポテンシャルによるリチウムイオン伝導経路推定手法のLI3PO4における検証 (2021年学士) </description>
+      
     </item>
+    
   </channel>
 </rss>

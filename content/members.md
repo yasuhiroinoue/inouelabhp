@@ -2,9 +2,9 @@
 title: "メンバー"
 ---
 
-## スタッフ
+## スタッフ (Staff)
 
-教授　井上 康博
+教授　<a href="https://github.com/yasuhiroinoue" target="_blank" rel="noopener noreferrer">井上 康博 <img src="/images/github-black.svg" alt="GitHub" style="height: 1em; vertical-align: middle;"></a>
 
 講師　瀬波 大土
 

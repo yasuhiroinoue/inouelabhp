@@ -16,3 +16,14 @@ article ol > li p,
   /* Reset any justification */
   text-justify: none !important;
 }
+
+/* Ensure the GitHub icon image within links is displayed */
+a img[alt="GitHub"] {
+  display: inline-block !important; /* Ensure it's displayed */
+  height: 1em !important;          /* Set a specific height (relative to font size) */
+  width: 1em !important;           /* Set a specific width */
+  vertical-align: middle !important; /* Align vertically */
+  margin-left: 0.2em;              /* Add a little space before the icon */
+  opacity: 1 !important;           /* Ensure it's not transparent */
+  visibility: visible !important;   /* Ensure it's not hidden */
+}

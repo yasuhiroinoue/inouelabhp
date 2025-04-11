@@ -1,0 +1,20 @@
+# Blowfish Theme Parameters
+# Documentation: https://blowfish.page/docs/configuration/
+
+# Meta description for the site
+description = "LIFE AND MATHEMATICAL SCIENCES, Kyoto University"
+
+# Default theme settings
+# Options: "light", "dark", "auto"
+colorScheme = "auto"
+# Whether to show the scheme toggle in the header
+showSchemeToggle = true
+
+# Footer settings
+footer.showCopyright = true
+footer.showThemeAttribution = true
+footer.showScrollToTop = true
+
+# Homepage settings
+homepage.layout = "profile" # Default layout, can be changed later
+homepage.showRecent = true  # Show recent content (like our news items)
