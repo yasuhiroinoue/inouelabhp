@@ -1,14 +1,16 @@
 ---
 title: "メンバー"
+date: 2025-04-12T00:00:00+09:00
+lastmod: 2025-04-12T02:33:00+09:00
 ---
 
 ## スタッフ (Staff)
 
-教授　<a href="https://github.com/yasuhiroinoue" target="_blank" rel="noopener noreferrer">井上 康博 <img src="/images/github-black.svg" alt="GitHub" style="height: 1em; vertical-align: middle;"></a>
+教　授　井上 康博
 
-講師　瀬波 大土
+講　師　瀬波 大土
 
-助教　森川 健太郎
+助　教　森川 健太郎
 
 支援職員　二茅 容子
 

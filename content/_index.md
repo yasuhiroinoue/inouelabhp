@@ -2,11 +2,10 @@
 title: "Home"
 ---
 
-京都大学大学院工学研究科  
+京都大学工学研究科  
 マイクロエンジニアリング専攻  
-生命数理科学分野
 
-LIFE AND MATHEMATICAL SCIENCES  
+LIFE AND MATHEMATICAL SCIENCES /
 KYOTO UNIVERSITY (SINCE OCT. 2021)
 
 ---

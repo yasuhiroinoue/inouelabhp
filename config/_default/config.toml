@@ -1,11 +1,11 @@
 # Hugo Configuration
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'LIFE AND MATHEMATICAL SCIENCES'
+title = '生命数理科学分野'
 theme = 'blowfish'
 
 # Enable GitInfo for last modified date
-enableGitInfo = true
+enableGitInfo = false
 
 # Syntax highlighting
 pygmentsCodeFences = true
@@ -13,3 +13,10 @@ pygmentsUseClasses = true
 
 # Needed for Blowfish
 paginate = 10
+
+[languages]
+  [languages."en-us"]
+    languageName = "English"
+    weight = 1
+    [languages."en-us".params]
+      dateFormat = "January 2, 2006"
