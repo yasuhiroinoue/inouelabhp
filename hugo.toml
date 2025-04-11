@@ -8,10 +8,14 @@ theme = 'ananke'
   url = "/"
   weight = 1
 [[menu.main]]
+  name = "お知らせ"
+  url = "/news/"
+  weight = 5
+[[menu.main]]
   name = "メンバー"
   url = "/members/"
   weight = 10
 [[menu.main]]
-  name = "希望される方へ"
+  name = "研究室を希望される方へ"
   url = "/prospective-students/"
   weight = 20
