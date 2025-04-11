@@ -1,29 +1,21 @@
-/* static/css/custom.css */
-article ul > li,
-article ol > li,
-.content ul > li,
-.content ol > li {
-  /* Apply directly to the list item */
-  text-align: left !important;
+/* You can add custom styles here */
+
+.youtube-grid {
+  display: grid;
+  grid-template-columns: 1fr; /* 1 column by default (mobile) */
+  gap: 1.5rem; /* Adjust gap as needed */
+  margin-top: 1rem; /* Add some space above the grid */
 }
 
-article ul > li p,
-article ol > li p,
-.content ul > li p,
-.content ol > li p {
-  /* Ensure paragraphs within list items are left-aligned */
-  text-align: left !important;
-  /* Reset any justification */
-  text-justify: none !important;
+/* On medium screens and up (e.g., tablets, desktops), use 2 columns */
+@media (min-width: 768px) {
+  .youtube-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
 }
 
-/* Ensure the GitHub icon image within links is displayed */
-a img[alt="GitHub"] {
-  display: inline-block !important; /* Ensure it's displayed */
-  height: 1em !important;          /* Set a specific height (relative to font size) */
-  width: 1em !important;           /* Set a specific width */
-  vertical-align: middle !important; /* Align vertically */
-  margin-left: 0.2em;              /* Add a little space before the icon */
-  opacity: 1 !important;           /* Ensure it's not transparent */
-  visibility: visible !important;   /* Ensure it's not hidden */
+/* Target the lite-youtube elements specifically */
+.youtube-grid lite-youtube {
+  width: 100%; /* Ensure it takes full width of the grid cell */
+  /* justify-self: center; might not be needed if width: 100% works */
 }
