@@ -2,7 +2,7 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = '生命数理科学分野'
-theme = 'blowfish'
+# theme = 'blowfish' # Removed for Hugo Modules
 
 # Enable GitInfo for last modified date
 enableGitInfo = false
