@@ -2,3 +2,16 @@ baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'ananke'
+
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 1
+[[menu.main]]
+  name = "メンバー"
+  url = "/members/"
+  weight = 10
+[[menu.main]]
+  name = "希望される方へ"
+  url = "/prospective-students/"
+  weight = 20
