@@ -14,3 +14,7 @@
   name = "研究室を希望される方へ"
   url = "/prospective-students/"
   weight = 20
+[[main]]
+  name = "YouTube"
+  url = "/youtube/"
+  weight = 15
