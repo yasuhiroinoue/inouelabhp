@@ -10,12 +10,14 @@ showAuthorsBadges: false
 
 ## スタッフ (Staff)
 
-教　授　井上 康博  
-[GitHub](https://github.com/yasuhiroinoue) / [ResearchMap](https://researchmap.jp/yasuhiroinoue) / [YouTube](https://www.youtube.com/@yasuhiroinoue)
+教　授　井上 康博 
+[ResearchMap](https://researchmap.jp/yasuhiroinoue) / [GitHub](https://github.com/yasuhiroinoue) / [YouTube](https://www.youtube.com/@yasuhiroinoue)
 
-講　師　瀬波 大土
+講　師　瀬波 大土 
+[ResearchMap](https://researchmap.jp/read0123603)
 
-助　教　森川 健太郎
+助　教　森川 健太郎 
+[ResearchMap](https://researchmap.jp/kentaromorikawa) / [GitHub](https://github.com/k-morikawa68)
 
 支援職員　二茅 容子
 
@@ -27,7 +29,8 @@ D3 松本 嘉彦
 
 D3 根本 悠樹
 
-D2 三村 知広
+D2 三村 知広 
+[ResearchMap](https://researchmap.jp/TomohiroMimura) / [GitHub](https://github.com/TomohiroMimura)
 
 D0 杉浦 清流
 
