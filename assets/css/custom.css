@@ -1,0 +1,25 @@
+/* You can add custom styles here */
+
+.youtube-grid {
+  display: grid;
+  grid-template-columns: 1fr; /* 1 column by default (mobile) */
+  gap: 1.5rem; /* Adjust gap as needed */
+  margin-top: 1rem; /* Add some space above the grid */
+  max-width: none; /* Allow the grid to expand beyond container limits */
+}
+
+/* Reverted to single column:
+/* On medium screens and up (e.g., tablets, desktops), use 2 columns */
+/* @media (min-width: 768px) {
+/*  .youtube-grid {
+/*    grid-template-columns: repeat(2, 1fr);
+/*  }
+/* }
+*/
+
+/* Target the lite-youtube elements specifically */
+.youtube-grid lite-youtube {
+  width: 100%; /* Make the component fill the grid column width */
+  aspect-ratio: 16 / 9; /* Maintain a 16:9 aspect ratio */
+  height: auto; /* Ensure height adjusts automatically based on aspect ratio */
+}
