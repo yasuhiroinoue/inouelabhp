@@ -39,9 +39,9 @@ D0 Ryuta Yufu
 
 M2 Kaito Kuninishi
 
-M2 Daiki Niimura
+M2 Daiki Shinmura
 
-M2 Seiji Yamanaka
+M2 Terufumi Yamanaka
 
 M1 Shunichiro Isogai
 
