@@ -1,5 +1,5 @@
 # Hugo Configuration
-baseURL = 'https://example.org/'
+baseURL = 'https://www.inoue-lab.info/'
 languageCode = 'en-us'
 title = '生命数理科学分野'
 # theme = 'blowfish' # Removed for Hugo Modules
