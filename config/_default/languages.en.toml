@@ -1,12 +1,23 @@
-# config/_default/languages.en.toml
+languageCode = "en-US"
+languageName = "English"
+weight = 2
+title = "Life and Mathematical Sciences"
+contentDir = "content/en"
 
-title = "Life and Mathematical Sciences" # Matched with hugo.toml title
+[params]
+  displayName = "English"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2 January 2006"
+  # logo = "img/blowfish_logo_transparent.png"
+  description = "Life and Mathematical Sciences"
 
 [params.author]
-name = "Life and Mathematical Sciences"
-image = "image/flowers.jpg"
-links = [
-  { github = "https://github.com/yasuhiroinoue" },
-  { orcid = "https://orcid.org/my-orcid?orcid=0000-0002-1968-8883" },
-  { youtube = "https://www.youtube.com/@yasuhiroinoue" }
+  name = "Life and Mathematical Sciences"
+  image = "image/flowers.jpg"
+  links = [
+    { github = "https://github.com/yasuhiroinoue" },
+    { orcid = "https://orcid.org/my-orcid?orcid=0000-0002-1968-8883" },
+    { youtube = "https://www.youtube.com/@yasuhiroinoue" }
 ]
+

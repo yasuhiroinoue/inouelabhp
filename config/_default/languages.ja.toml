@@ -1,12 +1,23 @@
-# config/_default/languages.ja.toml
-
+languageCode = "ja"
+languageName = "日本語"
+weight = 1
 title = "生命数理科学分野" # Matched with hugo.toml title
+contentDir = "content/ja"
+
+[params]
+  displayName = "日本語"
+  isoCode = "ja"
+  rtl = false
+  dateFormat = "2006-01-02"
+  # logo = "img/blowfish_logo_transparent.png"
+  description = "生命数理科学分野"
 
 [params.author]
-name = "生命数理科学分野"
-image = "image/flowers.jpg"
-links = [
-  { github = "https://github.com/yasuhiroinoue" },
-  { orcid = "https://orcid.org/my-orcid?orcid=0000-0002-1968-8883" },
-  { youtube = "https://www.youtube.com/@yasuhiroinoue" }
-]
+  name = "生命数理科学分野"
+  image = "image/flowers.jpg"
+  links = [
+    { github = "https://github.com/yasuhiroinoue" },
+    { orcid = "https://orcid.org/my-orcid?orcid=0000-0002-1968-8883" },
+    { youtube = "https://www.youtube.com/@yasuhiroinoue" }
+  ]
+
