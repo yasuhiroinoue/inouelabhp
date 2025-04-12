@@ -18,4 +18,4 @@ footer.showScrollToTop = true
 # Homepage settings
 homepage.layout = "card" # Default layout, can be changed later
 homepage.showRecent = true  # Show recent content (like our news items)
-homepage.homepageImage = "image/blackboard.jpg" # Changed to Japanese
+homepage.homepageImage = "image/sea.jpg" # Changed to Japanese
