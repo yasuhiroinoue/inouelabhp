@@ -1,6 +1,10 @@
 ---
 title: "森川健太郎君が優秀ポスター表彰（第36回バイオエンジニアリング講演会）"
 date: 2024-05-12
+showAuthor: false
+authors:
+  - "yasuhiroinoue"
+showAuthorsBadges: false
 ---
 
 森川健太郎君が第36回バイオエンジニアリング講演会で優秀ポスター表彰を受けました。

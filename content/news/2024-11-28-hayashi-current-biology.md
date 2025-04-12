@@ -1,6 +1,10 @@
 ---
 title: "林将也君らの国際共同研究成果がCurrent Biologyに発表"
 date: 2024-11-28
+showAuthor: false
+authors:
+  - "yasuhiroinoue"
+showAuthorsBadges: false
 ---
 
 林将也君、Johns Hopkins Univ・Weng先生、Univ Texas at Austin・Wallingford先生との国際共同研究成果がCurrent Biologyに発表されました。

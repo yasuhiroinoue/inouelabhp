@@ -1,6 +1,10 @@
 ---
 title: "サイエンスアゴラ2023（更新）注目企画に選出"
 date: 2023-11-18
+showAuthor: false
+authors:
+  - "yasuhiroinoue"
+showAuthorsBadges: false
 ---
 
 サイエンスアゴラ2023（更新）

@@ -2,6 +2,10 @@
 title: "三村 知広君の研究成果をarXivに発表"
 date: 2025-03-01T00:00:00+09:00
 draft: false
+showAuthor: false
+authors:
+  - "yasuhiroinoue"
+showAuthorsBadges: false
 ---
 
 三村 知広君の研究成果がarXivにて公開されました。

@@ -2,12 +2,20 @@
 
 .youtube-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-  gap: 1.5rem;
-  margin-top: 1rem;
+  grid-template-columns: 1fr; /* 1 column by default (mobile) */
+  gap: 1.5rem; /* Adjust gap as needed */
+  margin-top: 1rem; /* Add some space above the grid */
 }
 
+/* On medium screens and up (e.g., tablets, desktops), use 2 columns */
+@media (min-width: 768px) {
+  .youtube-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+/* Target the lite-youtube elements specifically */
 .youtube-grid lite-youtube {
-  display: block;
-  width: 100%;
+  width: 100%; /* Ensure it takes full width of the grid cell */
+  /* justify-self: center; might not be needed if width: 100% works */
 }

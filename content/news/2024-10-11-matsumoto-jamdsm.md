@@ -1,6 +1,10 @@
 ---
 title: "松本嘉彦君らの共同研究成果がJAMDSMに掲載"
 date: 2024-10-11
+showAuthor: false
+authors:
+  - "yasuhiroinoue"
+showAuthorsBadges: false
 ---
 
 松本 嘉彦君、早稲田大学・山﨑先生との共同研究成果がJournal of Advanced Mechanical Design, Systems, and Manufacturingに掲載されました。

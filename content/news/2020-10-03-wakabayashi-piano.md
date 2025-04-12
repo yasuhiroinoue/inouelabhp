@@ -1,6 +1,10 @@
 ---
 title: "若林君(2020卒)のピアノ演奏公開"
 date: 2020-10-03
+showAuthor: false
+authors:
+  - "yasuhiroinoue"
+showAuthorsBadges: false
 ---
 
 若林君(2020卒)のピアノ演奏が公開されました。

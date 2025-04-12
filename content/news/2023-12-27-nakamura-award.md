@@ -1,6 +1,10 @@
 ---
 title: "受賞：中村拓未君が若手講演表彰（第34回バイオフロンティア講演会）"
 date: 2023-12-27
+showAuthor: false
+authors:
+  - "yasuhiroinoue"
+showAuthorsBadges: false
 ---
 
 中村拓未君が第34回バイオフロンティア講演会の若手講演表彰に選ばれました。おめでとうございます。

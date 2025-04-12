@@ -1,6 +1,10 @@
 ---
 title: "上皮組織の折り畳みに関する研究成果がBIOMECH MODEL MECHANO BIOLに発表"
 date: 2019-11-15
+showAuthor: false
+authors:
+  - "yasuhiroinoue"
+showAuthorsBadges: false
 ---
 
 制限された空間内の上皮組織の折り畳み

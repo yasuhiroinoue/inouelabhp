@@ -1,6 +1,10 @@
 ---
 title: "東京大学・塚谷先生らとの共同研究成果がDevelopmentに発表"
 date: 2022-12-12
+showAuthor: false
+authors:
+  - "yasuhiroinoue"
+showAuthorsBadges: false
 ---
 
 東京大学・塚谷先生、京都大学・望月先生との共同研究成果がDevelopmentに発表されました。

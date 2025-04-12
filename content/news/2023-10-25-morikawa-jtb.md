@@ -1,6 +1,10 @@
 ---
 title: "森川健太郎君らの共同研究成果がJTBに掲載"
 date: 2023-10-25
+showAuthor: false
+authors:
+  - "yasuhiroinoue"
+showAuthorsBadges: false
 ---
 
 森川健太郎君、基礎生物学研究所・新美先生、森田先生、左倉先生、静岡大学・後藤先生、国立遺伝学研究所・前野先生との共同研究成果がJournal of Theoretical Biologyに掲載されました。

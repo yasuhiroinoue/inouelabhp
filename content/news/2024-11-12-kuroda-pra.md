@@ -1,6 +1,10 @@
 ---
 title: "黒田直也君の研究成果がPhysical Review Aに掲載"
 date: 2024-11-12
+showAuthor: false
+authors:
+  - "yasuhiroinoue"
+showAuthorsBadges: false
 ---
 
 黒田直也君の研究成果がPhysical Review Aに掲載されました。

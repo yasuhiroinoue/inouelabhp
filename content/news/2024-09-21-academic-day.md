@@ -1,6 +1,10 @@
 ---
 title: "京都大学アカデミックデイに出展"
 date: 2024-09-21
+showAuthor: false
+authors:
+  - "yasuhiroinoue"
+showAuthorsBadges: false
 ---
 
 京都大学アカデミックデイに出展します。

@@ -2,11 +2,11 @@
 # Documentation: https://blowfish.page/docs/configuration/
 
 # Meta description for the site
-description = "LIFE AND MATHEMATICAL SCIENCES, Kyoto University"
+description = "京都大学 生命数理科学分野" # Changed to Japanese
 
 # Default theme settings
 # Options: "light", "dark", "auto"
-colorScheme = "auto"
+colorScheme = "blowfish"
 # Whether to show the scheme toggle in the header
 showSchemeToggle = true
 
@@ -16,5 +16,6 @@ footer.showThemeAttribution = true
 footer.showScrollToTop = true
 
 # Homepage settings
-homepage.layout = "profile" # Default layout, can be changed later
+homepage.layout = "hero" # Default layout, can be changed later
 homepage.showRecent = true  # Show recent content (like our news items)
+homepage.homepageImage = "image/background.png" # Changed to Japanese

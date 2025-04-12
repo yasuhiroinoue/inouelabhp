@@ -1,6 +1,10 @@
 ---
 title: "三村知広君が開発する多細胞動力学モデルの成果がJTBに掲載"
 date: 2023-06-08
+showAuthor: false
+authors:
+  - "yasuhiroinoue"
+showAuthorsBadges: false
 ---
 
 三村知広君が開発する多細胞動力学の新しい数理モデルの成果がJournal of Theoretical Biologyに掲載されました。

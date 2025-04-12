@@ -1,6 +1,7 @@
 # Hugo Configuration
 baseURL = 'https://www.inoue-lab.info/'
-languageCode = 'en-us'
+languageCode = 'ja'
+defaultContentLanguage = "ja" # Explicitly set default language
 title = '生命数理科学分野'
 # theme = 'blowfish' # Removed for Hugo Modules
 
@@ -15,13 +16,18 @@ pygmentsUseClasses = true
 paginate = 10
 
 [languages]
-  [languages."en-us"]
-    languageName = "English"
+  [languages."ja"]
+    languageName = "日本語" # Changed to Japanese
     weight = 1
-    [languages."en-us".params]
-      dateFormat = "January 2, 2006"
+    [languages."ja".params]
+      dateFormat = "2006年1月2日" # Changed to Japanese date format
 
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true # この行を確認・追加 (trueにする)
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  author = "authors"

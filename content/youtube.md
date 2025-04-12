@@ -2,6 +2,10 @@
 title: "YouTube"
 date: 2025-04-12T02:53:00+09:00
 lastmod: 2025-04-12T02:53:00+09:00
+showAuthor: false
+authors:
+  - "yasuhiroinoue"
+showAuthorsBadges: false
 ---
 
 ## 研究室関連動画 (Lab Videos)

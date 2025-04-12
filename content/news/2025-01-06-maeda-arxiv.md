@@ -1,6 +1,10 @@
 ---
 title: "前田樹君の研究成果をarXivに発表"
 date: 2025-01-06
+showAuthor: false
+authors:
+  - "yasuhiroinoue"
+showAuthorsBadges: false
 ---
 
 前田樹君の研究成果をarXivに発表しました。

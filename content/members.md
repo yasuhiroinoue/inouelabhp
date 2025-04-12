@@ -2,6 +2,10 @@
 title: "メンバー"
 date: 2025-04-12T00:00:00+09:00
 lastmod: 2025-04-12T02:33:00+09:00
+showAuthor: false
+authors:
+  - "yasuhiroinoue"
+showAuthorsBadges: false
 ---
 
 ## スタッフ (Staff)

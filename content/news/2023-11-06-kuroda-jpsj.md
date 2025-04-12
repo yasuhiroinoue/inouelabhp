@@ -1,6 +1,10 @@
 ---
 title: "黒田直也君の研究成果がJPSJに掲載"
 date: 2023-11-06
+showAuthor: false
+authors:
+  - "yasuhiroinoue"
+showAuthorsBadges: false
 ---
 
 黒田直也君の研究成果がJournal of the Physical Society of Japanに掲載されました。

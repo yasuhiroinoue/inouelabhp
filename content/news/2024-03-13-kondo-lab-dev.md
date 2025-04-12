@@ -1,6 +1,10 @@
 ---
 title: "大阪大学・近藤研究室らとの共同研究がDevelopmentに発表"
 date: 2024-03-13
+showAuthor: false
+authors:
+  - "yasuhiroinoue"
+showAuthorsBadges: false
 ---
 
 大阪大学・近藤研究室、静岡大学・後藤先生との共同研究がDevelopmentに発表されました。

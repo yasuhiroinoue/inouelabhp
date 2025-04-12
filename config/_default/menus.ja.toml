@@ -1,0 +1,20 @@
+[[main]]
+  name = "ホーム" # Changed to Japanese
+  url = "/"
+  weight = 1
+[[main]]
+  name = "お知らせ"
+  url = "/news/"
+  weight = 5
+[[main]]
+  name = "メンバー"
+  url = "/members/"
+  weight = 10
+[[main]]
+  name = "研究室を希望される方へ"
+  url = "/prospective-students/"
+  weight = 20
+[[main]]
+  name = "YouTube"
+  url = "/youtube/"
+  weight = 15
