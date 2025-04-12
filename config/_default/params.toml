@@ -16,6 +16,6 @@ footer.showThemeAttribution = true
 footer.showScrollToTop = true
 
 # Homepage settings
-homepage.layout = "hero" # Default layout, can be changed later
+homepage.layout = "card" # Default layout, can be changed later
 homepage.showRecent = true  # Show recent content (like our news items)
-homepage.homepageImage = "image/background.png" # Changed to Japanese
+homepage.homepageImage = "image/blackboard.jpg" # Changed to Japanese
