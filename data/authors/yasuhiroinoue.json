@@ -1,5 +1,7 @@
 {
     "name": "Yasuhiro Inoue",
+    "bio": "Professor",
+    "image": "image/inoue.jpg",
     "social": [
         { "github": "https://github.com/yasuhiroinoue" },
         { "researchmap": "https://researchmap.jp/yasuhiroinoue" },
