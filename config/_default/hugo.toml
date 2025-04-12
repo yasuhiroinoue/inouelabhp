@@ -15,13 +15,6 @@ pygmentsUseClasses = true
 # Needed for Blowfish
 paginate = 10
 
-
-      
-# [markup]
-#   [markup.goldmark]
-#     [markup.goldmark.renderer]
-#       unsafe = true # この行を確認・追加 (trueにする)
-
 [taxonomies]
   tag = "tags"
   category = "categories"

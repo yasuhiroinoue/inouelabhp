@@ -8,7 +8,7 @@ authors:
 showAuthorsBadges: false
 ---
 
-## 研究室関連動画 (Lab Videos)
+## ------------- Lab Videos -------------
 
 <div class="youtube-grid">
 {{< youtubeLite id="ipP3Be84KXk" >}}
