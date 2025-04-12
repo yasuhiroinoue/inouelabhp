@@ -25,7 +25,8 @@ showAuthorsBadges: false
 
 ## 学生 (Students)
 
-D3 松本 嘉彦
+D3 松本 嘉彦  
+[YouTube](https://www.youtube.com/@%E6%9D%BE%E6%9C%AC%E5%98%89%E5%BD%A6)
 
 D3 根本 悠樹
 
