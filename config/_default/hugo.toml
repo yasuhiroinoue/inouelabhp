@@ -1,9 +1,9 @@
 # Hugo Configuration
+
 baseURL = 'https://www.inoue-lab.info/'
-languageCode = 'ja'
-defaultContentLanguage = "ja" # Explicitly set default language
-title = '生命数理科学分野'
-# theme = 'blowfish' # Removed for Hugo Modules
+defaultContentLanguage = "ja" #
+defaultContentLanguageInsubdir = true
+outputs.home = ["HTML", "RSS", "JSON"]
 
 # Enable GitInfo for last modified date
 enableGitInfo = false
@@ -17,17 +17,31 @@ paginate = 10
 
 [languages]
   [languages."ja"]
-    languageName = "日本語" # Changed to Japanese
+    languageCode = "ja"
+    languageName = "日本語"
+    contentDir = "content/ja"
     weight = 1
+    title = "生命数理科学分野"
     [languages."ja".params]
-      dateFormat = "2006年1月2日" # Changed to Japanese date format
+      dateFormat = "2006年1月2日"
 
-[markup]
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true # この行を確認・追加 (trueにする)
+  [languages."en"]
+    languageCode = "en-US"
+    languageName = "English"
+    contentDir = "content/en"
+    weight = 2
+    title = "Life and Mathematical Sciences"
+    [languages."en".params]
+      dateFormat = "January 2, 2006"
+
+      
+# [markup]
+#   [markup.goldmark]
+#     [markup.goldmark.renderer]
+#       unsafe = true # この行を確認・追加 (trueにする)
 
 [taxonomies]
   tag = "tags"
   category = "categories"
   author = "authors"
+

@@ -2,20 +2,39 @@
 # Documentation: https://blowfish.page/docs/configuration/
 
 # Meta description for the site
-description = "京都大学 生命数理科学分野" # Changed to Japanese
+description = "Life and Mathematical Sciences / Kyoto University" # Changed to Japanese
+outputs.home = ["HTML", "RSS", "JSON"]
+
+enableRobotsTXT = true
+enableSearch = true
+enableCodeCopy = false
+
 
 # Default theme settings
 # Options: "light", "dark", "auto"
 colorScheme = "blowfish"
+autoSwitchAppearance = "false"
+defaultAppearance = "dark"
+
+[header]
+  layout = "basic"
 # Whether to show the scheme toggle in the header
 showSchemeToggle = true
 
 # Footer settings
-footer.showCopyright = true
-footer.showThemeAttribution = true
-footer.showScrollToTop = true
+[footer]
+  showMenu = true
+  showCopyright = true
+  showThemeAttribution = true
+  showAppearanceSwitcher = true
+  showScrollToTop = true
 
 # Homepage settings
-homepage.layout = "card" # Default layout, can be changed later
-homepage.showRecent = true  # Show recent content (like our news items)
-homepage.homepageImage = "image/flowers.jpg" # Changed to Japanese
+[homepage]
+  layout = "card" # Default layout, can be changed later
+  showRecent = true  # Show recent content (like our news items)
+  homepageImage = "image/flowers.jpg" # Changed to Japanese
+
+# Article settings
+[article]
+  showWordCount = false

@@ -4,17 +4,17 @@
   weight = 1
 [[main]]
   name = "お知らせ"
-  url = "/news/"
+  url = "/ja/news/"
   weight = 5
 [[main]]
   name = "メンバー"
-  url = "/members/"
+  url = "/ja/members/"
   weight = 10
 [[main]]
   name = "研究室を希望される方へ"
-  url = "/prospective-students/"
+  url = "/ja/prospective-students/"
   weight = 20
 [[main]]
   name = "YouTube"
-  url = "/youtube/"
+  url = "/ja/youtube/"
   weight = 15

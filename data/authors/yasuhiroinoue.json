@@ -4,7 +4,7 @@
     "image": "image/inoue.jpg",
     "social": [
         { "github": "https://github.com/yasuhiroinoue" },
-        { "researchmap": "https://researchmap.jp/yasuhiroinoue" },
+        { "orcid" : "https://orcid.org/my-orcid?orcid=0000-0002-1968-8883" },
         { "youtube": "https://www.youtube.com/@yasuhiroinoue" }
     ]
 }
