@@ -1,6 +1,6 @@
 ---
 title: "Yoshihiko Matsumoto to exhibit at Science Agora 2025"
-date: 2025-10-25
+date: 2025-09-01
 showAuthor: false
 authors:
   - "yasuhiroinoue"
