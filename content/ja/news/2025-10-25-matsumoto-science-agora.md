@@ -1,6 +1,6 @@
 ---
 title: "松本嘉彦君がサイエンスアゴラ2025で企画展示を行います"
-date: 2025-10-25
+date: 2025-09-01
 showAuthor: false
 authors:
   - "yasuhiroinoue"
