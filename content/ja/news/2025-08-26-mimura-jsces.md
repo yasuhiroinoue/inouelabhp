@@ -11,4 +11,4 @@ showAuthorsBadges: false
 
 この研究では、多細胞動力学を表現するセルセンターモデルを用いた形態形成シミュレーションにおいて、異方性メッシュに対する13種類の曲げエネルギー離散化手法を評価し、定量的予測にはHamannモデルが最も精度が高く、定性的な形態学的傾向の把握にはJülicherモデルが計算効率的に十分であることを明らかにしました。
 
-Mimura T, Inoue Y. Comparison of Bending-Energy Discretization Methods for Anisotropic Meshes in Morphogenetic Simulations. Transactions of JSCES, Paper No.20250010.
+Mimura T, Inoue Y. Comparison of Bending-Energy Discretization Methods for Anisotropic Meshes in Morphogenetic Simulations. [Transactions of JSCES, Paper No.20250010](https://www.jstage.jst.go.jp/article/jsces/2025/0/2025_20250010/_article/-char/ja).

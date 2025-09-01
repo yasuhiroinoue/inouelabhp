@@ -11,4 +11,4 @@ Tomohiro Mimura's research paper has been accepted for publication in Transactio
 
 This study evaluated 13 distinct bending-energy discretization methods for morphogenetic simulations using cell-center models on anisotropic meshes. The research revealed that the Hamann model demonstrates superior accuracy for quantitative predictions, while the computationally efficient Jülicher model suffices for capturing qualitative morphological trends.
 
-Mimura T, Inoue Y. Comparison of Bending-Energy Discretization Methods for Anisotropic Meshes in Morphogenetic Simulations. Transactions of JSCES, Paper No.20250010.
+Mimura T, Inoue Y. Comparison of Bending-Energy Discretization Methods for Anisotropic Meshes in Morphogenetic Simulations. [Transactions of JSCES, Paper No.20250010](https://www.jstage.jst.go.jp/article/jsces/2025/0/2025_20250010/_article/-char/ja).
