@@ -24,6 +24,10 @@ We welcome individuals who can formulate their own research questions and take t
 *   Mathematical understanding of biological morphogenesis based on philosophical considerations (PhD, 2023)
 
 ### Master's
+*   4D printing method for foldable and deployable curved surface fabrication using heat-shrinkable films (Master's, 2025)
+*   Relativistic formulation of total angular momentum current based on 4-component spin gauge transformation (Master's, 2025)
+*   Phase separation in counter-migrating particle systems determined by the symmetry of rod-like particles (Master's, 2025)
+*   Mathematical analysis of belief change in LLM agents based on cognitive dissonance theory (Master's, 2025)
 *   Biological shape determined by topological defects and symmetry of curvature fields (Master's, 2024)
 *   Mechanical basis of folds supporting normal wing folding in pupal insects (Master's, 2024)
 *   Novel cell rearrangement that does not stop tissue elongation (Master's, 2024)
@@ -45,6 +49,12 @@ We welcome individuals who can formulate their own research questions and take t
 *   Linear relationship between spin polarization rate and Zeta force in chirality-induced spin selectivity (Master's, 2021)
 
 ### Bachelor's
+*   Digital Life: Swimming, Swarming (Bachelor's, 2025)
+*   Influence of the number of arm joints on the acquisition of batting motion by reinforcement learning (Bachelor's, 2025)
+*   Active maintenance of 'hesitation' by attention control in RNNs (Bachelor's, 2025)
+*   Enhancement of electron chirality polarization in chiral Te crystals due to strain and temperature changes (Bachelor's, 2025)
+*   Emergent behavior of reinforcement learning agents in resource acquisition tasks (Bachelor's, 2025)
+*   Survival strategy of annual plants understood as a Markov decision process (Bachelor's, 2025)
 *   Accuracy of numerical calculation of spin states: Evaluation using spin density equation (Bachelor's, 2024)
 *   Morphogenesis through interaction between self-organization and manipulation (Bachelor's, 2024)
 *   Mathematical method for introducing fold structures into curved surfaces for stiffness improvement (Bachelor's, 2024)
