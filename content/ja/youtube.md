@@ -11,6 +11,12 @@ showAuthorsBadges: false
 ## ------------- Lab Videos -------------
 
 <div class="youtube-grid">
+{{< youtubeLite id="4zMYQXjNc8k" >}}
+
+{{< youtubeLite id="manRXgCoP4M" >}}
+
+{{< youtubeLite id="QZi4qC980cg" >}}
+
 {{< youtubeLite id="ipP3Be84KXk" >}}
 
 {{< youtubeLite id="gB0NefOP1qo" >}}
