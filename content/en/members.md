@@ -71,4 +71,4 @@ B4 Ren Hosoya
 
 B4 Ryoma Yamaguchi
 
-B4 Nozomu Yoshimoto
+B4 Nozomi Yoshimoto
