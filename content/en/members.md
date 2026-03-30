@@ -30,37 +30,45 @@ D3 Yoshihiko Matsumoto
 
 D3 Yuki Nemoto
 
-D2 Tomohiro Mimura
+D3 Tomohiro Mimura
 [ResearchMap](https://researchmap.jp/TomohiroMimura) / [GitHub](https://github.com/TomohiroMimura)
 
-D0 Seiryu Sugiura
+D1 Seiryu Sugiura
 
-D0 Ryuta Yufu
+D1 Ryuta Yufu
 
 M2 Kaito Kuninishi
 
-M2 Daiki Shinmura
+M2 Shunichiro Isogai
 
-M2 Terufumi Yamanaka
+M2 Taichi Kometani
 
-M1 Shunichiro Isogai
+M2 Katsuki Kondo
 
-M1 Taichi Kometani
+M2 Kaito Shimizu
 
-M1 Katsuki Kondo
+M2 Kyosuke Nakano
 
-M1 Kaito Shimizu
+M1 Yohei Shinie
 
-M1 Kyosuke Nakano
+M1 Keisei Tanabata
 
-B4 Yohei Shinie
+M1 Atsuhisa Fukuda
 
-B4 Keisei Tanabata
+M1 Koyo Fujita
 
-B4 Atsuhisa Fukuda
+M1 Tomohiro Watase
 
-B4 Koyo Fujita
+B4 Shintaro Kusaka
 
-B4 Ryuki Miyamoto
+B4 Hinata Hashizume
 
-B4 Tomohiro Watase
+B4 Takahito Fukushima
+
+B4 Makoto Fujii
+
+B4 Ren Hosoya
+
+B4 Ryoma Yamaguchi
+
+B4 Nozomu Yoshimoto

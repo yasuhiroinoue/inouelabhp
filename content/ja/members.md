@@ -30,37 +30,45 @@ D3 松本 嘉彦
 
 D3 根本 悠樹
 
-D2 三村 知広  
+D3 三村 知広  
 [ResearchMap](https://researchmap.jp/TomohiroMimura) / [GitHub](https://github.com/TomohiroMimura)
 
-D0 杉浦 清流
+D1 杉浦 清流
 
-D0 油布 隆太
+D1 油布 隆太
 
 M2 國西 海渡
 
-M2 新村 大輝
+M2 磯谷 駿一郎
 
-M2 山中 晟史
+M2 米谷 太一
 
-M1 磯谷 駿一郎
+M2 近藤 克樹
 
-M1 米谷 太一
+M2 清水 海音
 
-M1 近藤 克樹
+M2 中野 恭輔
 
-M1 清水 海音
+M1 新家 洋平
 
-M1 中野 恭輔
+M1 七夕 慧成
 
-B4 新家 洋平
+M1 福田 純久
 
-B4 七夕 慧成
+M1 藤田 向陽
 
-B4 福田 純久
+M1 渡瀬 友裕
 
-B4 藤田 向陽
+B4 日下 慎太郎
 
-B4 宮本 竜希
+B4 橋爪 陽
 
-B4 渡瀬 友裕
+B4 福島 敬仁
+
+B4 藤井 誠
+
+B4 細谷 錬
+
+B4 山口 稜真
+
+B4 吉本 望
