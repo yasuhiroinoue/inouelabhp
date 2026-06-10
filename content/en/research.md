@@ -67,6 +67,8 @@ We also take on an "inverse" challenge. From **just two images** — before and 
 
 ## 3. The "right and left hands" of molecules — chirality and the cytoskeleton
 
+![The "right and left hands" of molecules: chirality and the cytoskeleton](image/research/topic3-chirality.png)
+
 Your right hand and left hand look identical in a mirror, yet they can never be superimposed. The molecular world has the same "right vs. left" handedness (**chirality**), and life makes clever use of this difference.
 
 **Actin filaments**, which act as the cell's internal scaffolding, form a variety of ordered structures simply through the rod-like "excluded-volume" effect of straight filaments avoiding one another. We further discovered that when the molecular motor **myosin** is active, high concentrations of actin spontaneously form **ring structures that all rotate in the same direction**. The result offers a clue to how left–right asymmetry (chirality) arises inside cells.
