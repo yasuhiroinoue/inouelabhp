@@ -45,6 +45,8 @@ Shaping also proceeds through the **rearrangement of cells**. In international c
 
 ## 2. Recreating cells and tissues in the computer — models and methods
 
+![Recreating cells and tissues in the computer with models and methods](image/research/topic2-models.png)
+
 To recreate morphogenesis in a computer, we first need a foundational model of "how to express a cell mathematically." We developed our own **"cell-center model,"** which represents cells as points (centers) to simulate three-dimensional tissue deformation, and we have released the code so anyone can use it.
 
 How to compute a tissue's "bendability" on a computer (the **discretization of bending energy**) is a crucial problem that determines a simulation's accuracy. By comparing several methods, we clarified when to use which: one method when you want quantitatively accurate predictions, another when you want to capture the rough trend efficiently. This kind of **research into the methods themselves** underpins simulations we can trust.
@@ -79,6 +81,8 @@ We also study handedness at the level of individual molecules. In theory, right-
 
 ## 4. Manufacturing inspired by living things — robots, materials, and 4D printing
 
+![Manufacturing inspired by living things: robots, materials, and 4D printing](image/research/topic4-manufacturing.png)
+
 The ingenious mechanisms of living things offer hints for new ways of making things. Take the legs of a walking robot. Using a **genetic algorithm** (an optimization method that mimics biological evolution), we proposed a way to design a one-degree-of-freedom link leg mechanism that walks — without predefining its shape or trajectory. We then extended this to **multi-objective optimization** that satisfies several goals, such as speed and stability, at once.
 
 - → [Link leg mechanism design without a predetermined trajectory (JAMDSM, 2024)](/en/news/2024-10-11-matsumoto-jamdsm/)
@@ -91,6 +95,8 @@ We also learned from how organisms turn flat sheets into 3D forms by **varying g
 ---
 
 ## 5. Cognition, "understanding," and play, in mathematics — from life to society and culture
+
+![Capturing cognition, understanding, and play through mathematics](image/research/topic5-cognition.png)
 
 Our interests are not limited to the bodies of living things. What does it even mean to **"understand"** something? We take on this philosophical question, too, from the standpoint of mathematical modeling.
 
