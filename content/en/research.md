@@ -22,6 +22,8 @@ Below we introduce our research grouped into five themes, explained as plainly a
 
 ## 1. How is the "shape" of a living thing decided? — The mathematics of morphogenesis
 
+![How the shape of a living thing is decided: the mathematics of morphogenesis](image/research/topic1-morphogenesis.png)
+
 A flat sheet of cells (an epithelium) can fold, bulge, or form a mesh. Why do such different shapes arise from the same kind of cell? Using mathematical models, we showed that the **asymmetry of a cell's physical environment** is one of the principles that decide whether protrusions, folds, or meshes form. We also describe tissue shaping as an "energy landscape" to understand why shapes form so reliably and robustly.
 
 - → [Environmental asymmetry in epithelial morphogenesis (Scientific Reports, 2022)](/en/news/2022-07-05-scientific-reports/)
