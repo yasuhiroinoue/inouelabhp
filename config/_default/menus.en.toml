@@ -3,6 +3,10 @@
   url = "/en/"
   weight = 1
 [[main]]
+  name = "Research"
+  url = "/en/research/"
+  weight = 3
+[[main]]
   name = "News"
   url = "/en/news/"
   weight = 5

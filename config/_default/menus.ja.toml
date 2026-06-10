@@ -3,6 +3,10 @@
   url = "/"
   weight = 1
 [[main]]
+  name = "研究紹介"
+  url = "/ja/research/"
+  weight = 3
+[[main]]
   name = "お知らせ"
   url = "/ja/news/"
   weight = 5
