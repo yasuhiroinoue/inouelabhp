@@ -7,7 +7,7 @@ authors:
 showAuthorsBadges: false
 ---
 
-Research by Dr. Morikawa and colleagues in our lab was featured in the September 2026 issue of the science magazine *Kodomo no Kagaku* (Children's Science, published by Seibundo Shinkosha), within the special feature "Amazing Nature Technology," under the title "We made curved surfaces the same way living things do!"
+Research by Dr. Morikawa and colleagues in our lab was featured in the September 2026 issue of the science magazine *Kodomo no Kagaku* (Children's Science, published by Seibundo Shinkosha), in the "Latest Science Topics — KoKa Topi" column, under the title "We made curved surfaces the same way living things do!"
 
 The featured work is inspired by "differential growth" in biology—the spatially varying growth rates by which tissues form shapes—and combines a heat-shrink film with 3D printing to artificially generate a wide variety of curved surface structures. The results were published in the Journal of the Royal Society Interface.
 
