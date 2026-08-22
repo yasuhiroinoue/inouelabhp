@@ -37,7 +37,7 @@ D1 Seiryu Sugiura
 
 D1 Ryuta Yufu
 
-M2 Kaito Kuninishi
+D0 Kaito Kuninishi
 
 M2 Shunichiro Isogai
 
