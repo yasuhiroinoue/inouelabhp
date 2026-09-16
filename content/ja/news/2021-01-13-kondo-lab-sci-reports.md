@@ -12,4 +12,4 @@ showAuthorsBadges: false
 Keisuke Matsuda, Hiroki Gotoh, Haruhiko Adachi, Yasuhiro Inoue, Shigeru Kondo
 Computational analyses decipher the primordial folding coding the 3D structure of the beetle horn, Scientific Reports (2021)
 
-[https://doi.org/10.1038/s41598-020-79757-](https://doi.org/10.1038/s41598-020-79757-)
+[https://doi.org/10.1038/s41598-020-79757-2](https://doi.org/10.1038/s41598-020-79757-2)
