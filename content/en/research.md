@@ -1,7 +1,7 @@
 ---
 title: "Our Research"
 date: 2026-06-10T00:00:00+09:00
-lastmod: 2026-06-10T00:00:00+09:00
+lastmod: 2026-09-16T00:00:00+09:00
 showAuthor: false
 authors:
   - "yasuhiroinoue"
@@ -106,10 +106,13 @@ Our interests are not limited to the bodies of living things. What does it even 
 
 Everyday "play" is also a research subject. We built a framework to mathematically systematize the **rules of pencil puzzles** such as Sudoku and Slitherlink, succeeding in writing those rules in a formal way. This opens the door to **automatic puzzle generation** by computer and to AI-assisted creation of diverse new rules.
 
+Mathematics also hides in the familiar act of stacking objects. We based our study on **Playstix**, a construction toy made of rods with periodic surface corrugations. Using theory and simulation, we showed that these rods can be stacked with successive layers rotated into a helicoidal structure, while keeping their grooves in contact, **only at certain discrete angles**. The geometry of these stacks also helps us understand helicoidal structures found in living organisms and composite materials.
+
 A form that rises from matter goes on to process information (cognition), to relate to others, and to give rise to collective order — something we might call society or culture. Connecting every one of these layers in the same language of mathematics and computation is the future we envision for the Life and Mathematical Sciences.
 
 - → [Toward a mathematical model of life and "understanding" (2022)](/en/news/2022-02-18-morikawa-tomita-collab/)
 - → [A mathematical framework for pencil-puzzle rules (arXiv, 2025)](/en/news/2025-01-06-maeda-arxiv/)
+- → [Angle conditions for helicoidal stacking of corrugated rods (JPSJ, 2026; Editors' Choice)](/en/news/2026-09-04-mimura-sato-jpsj/)
 
 ---
 
