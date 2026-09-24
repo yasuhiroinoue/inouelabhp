@@ -15,6 +15,12 @@ The Principal Investigator (PI), Professor Inoue, holds a background in Mechanic
 
 We welcome individuals who can formulate their own research questions and take the initiative to actively pursue them. Undertaking highly original research inevitably involves challenges, but we are committed to fully supporting your passion and efforts. Our laboratory provides an environment where you can transform your unique ideas into tangible results and advance research that pushes the boundaries of knowledge. This is the place to conduct world-leading, one-of-a-kind research.
 
+## Lab Visits and Graduate Study
+
+For inquiries about visiting the lab or graduate study, please contact Professor Yasuhiro Inoue by email.
+
+Email: [inoue.yasuhiro.4n@kyoto-u.ac.jp](mailto:inoue.yasuhiro.4n@kyoto-u.ac.jp)
+
 ---
 
 ## Examples of Past Research Themes

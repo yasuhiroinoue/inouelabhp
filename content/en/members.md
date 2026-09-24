@@ -13,6 +13,8 @@ showAuthorsBadges: false
 Professor　Yasuhiro Inoue
 [ResearchMap](https://researchmap.jp/yasuhiroinoue) / [GitHub](https://github.com/yasuhiroinoue) / [YouTube](https://www.youtube.com/@yasuhiroinoue)
 
+Email: [inoue.yasuhiro.4n@kyoto-u.ac.jp](mailto:inoue.yasuhiro.4n@kyoto-u.ac.jp)
+
 Lecturer　Masato Senami
 [ResearchMap](https://researchmap.jp/read0123603)
 

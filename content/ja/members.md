@@ -13,6 +13,8 @@ showAuthorsBadges: false
 教　授　井上 康博  
 [ResearchMap](https://researchmap.jp/yasuhiroinoue) / [GitHub](https://github.com/yasuhiroinoue) / [YouTube](https://www.youtube.com/@yasuhiroinoue)
 
+メール：[inoue.yasuhiro.4n@kyoto-u.ac.jp](mailto:inoue.yasuhiro.4n@kyoto-u.ac.jp)
+
 講　師　瀬波 大土  
 [ResearchMap](https://researchmap.jp/read0123603)
 
