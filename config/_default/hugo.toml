@@ -8,12 +8,9 @@ outputs.home = ["HTML", "RSS", "JSON"]
 # Enable GitInfo for last modified date
 enableGitInfo = false
 
-# Syntax highlighting
-pygmentsCodeFences = true
-pygmentsUseClasses = true
-
 # Needed for Blowfish
-paginate = 10
+[pagination]
+  pagerSize = 10
 
 [taxonomies]
   tag = "tags"

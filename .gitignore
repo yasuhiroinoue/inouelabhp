@@ -1,1 +1,32 @@
+# Local AI development files
 CLAUDE.md
+.claude/
+.codex/
+.gemini/
+.genkit/
+
+# Environment variables and Cloudflare secrets
+.env
+.env.*
+.dev.vars
+.dev.vars.*
+!.env.example
+!.env.sample
+!.env.template
+!.dev.vars.example
+!.dev.vars.sample
+!.dev.vars.template
+.wrangler/
+
+# Hugo build output and caches
+/public/
+/resources/_gen/
+/.hugo_build.lock
+/.cache/
+
+# Editor and operating system temporary files
+*.swp
+*.swo
+*~
+.DS_Store
+*:Zone.Identifier
